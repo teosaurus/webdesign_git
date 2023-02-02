@@ -1,0 +1,370 @@
+
+@font-face {
+    font-family: 'jost-thin';
+    src: url('jost-200-thinjost.eot');
+    src: url('jost-200-thinjost.eot?#iefix') format('embedded-opentype'),
+         url('jost-200-thinjost.woff2') format('woff2'),
+         url('jost-200-thinjost.woff') format('woff'),
+         url('jost-200-thinjost.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+
+
+
+@font-face {
+    font-family: 'jost-book';
+    src: url('jost-400-bookjost.eot');
+    src: url('jost-400-bookjost.eot?#iefix') format('embedded-opentype'),
+         url('jost-400-bookjost.woff2') format('woff2'),
+         url('jost-400-bookjost.woff') format('woff'),
+         url('jost-400-bookjost.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'jost-medium';
+    src: url('jost-500-mediumjost.eot');
+    src: url('jost-500-mediumjost.eot?#iefix') format('embedded-opentype'),
+         url('jost-500-mediumjost.woff2') format('woff2'),
+         url('jost-500-mediumjost.woff') format('woff'),
+         url('jost-500-mediumjost.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'jost-medium-italic';
+    src: url('jost-500-mediumitalicjost.eot');
+    src: url('jost-500-mediumitalicjost.eot?#iefix') format('embedded-opentype'),
+         url('jost-500-mediumitalicjost.woff2') format('woff2'),
+         url('jost-500-mediumitalicjost.woff') format('woff'),
+         url('jost-500-mediumitalicjost.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'jost-semi';
+    src: url('jost-600-semijost.eot');
+    src: url('jost-600-semijost.eot?#iefix') format('embedded-opentype'),
+         url('jost-600-semijost.woff2') format('woff2'),
+         url('jost-600-semijost.woff') format('woff'),
+         url('jost-600-semijost.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'jost-bold';
+    src: url('jost-700-boldjost.eot');
+    src: url('jost-700-boldjost.eot?#iefix') format('embedded-opentype'),
+         url('jost-700-boldjost.woff2') format('woff2'),
+         url('jost-700-boldjost.woff') format('woff'),
+         url('jost-700-boldjost.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'jost-heavy';
+    src: url('jost-800-heavyjost.eot');
+    src: url('jost-800-heavyjost.eot?#iefix') format('embedded-opentype'),
+         url('jost-800-heavyjost.woff2') format('woff2'),
+         url('jost-800-heavyjost.woff') format('woff'),
+         url('jost-800-heavyjost.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'jost-semi-italic';
+    src: url('jost-600-semiitalicjost.eot');
+    src: url('jost-600-semiitalicjost.eot?#iefix') format('embedded-opentype'),
+         url('jost-600-semiitalicjost.woff2') format('woff2'),
+         url('jost-600-semiitalicjost.woff') format('woff'),
+         url('jost-600-semiitalicjost.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'jost-heavy-italic';
+    src: url('jost-800-heavyitalicjost.eot');
+    src: url('jost-800-heavyitalicjost.eot?#iefix') format('embedded-opentype'),
+         url('jost-800-heavyitalicjost.woff2') format('woff2'),
+         url('jost-800-heavyitalicjost.woff') format('woff'),
+         url('jost-800-heavyitalicjost.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+
+
+
+
+
+
+@font-face {
+    font-family: 'jost-light';
+    src: url('jost-300-lightjost.eot');
+    src: url('jost-300-lightjost.eot?#iefix') format('embedded-opentype'),
+         url('jost-300-lightjost.woff2') format('woff2'),
+         url('jost-300-lightjost.woff') format('woff'),
+         url('jost-300-lightjost.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* @group Reset */
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+	 v2.0 | 20110126
+	 License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+body {
+	line-height: 1;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+	content: '';
+	content: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body, html {
+  height: 100%;
+}
+
+
+img {
+    width: 100%;
+}
+
+/* @end */
+
+
+
+body {
+    font-family: 'jost-light', Arial, sans-serif;
+    font-size: 18px;
+    color: #000;
+    animation: fadeInAnimation ease 4s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+@keyframes fadeInAnimation {
+    0% { opacity: 0;}
+    100% {opacity: 1;}
+}
+
+
+
+
+/*.home {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    padding: 30px;
+}*/
+
+nav a {
+    font-size: 20px;
+    color: grey;
+}
+
+nav a:hover {
+    color: darkgrey;
+}
+
+/*nav li {
+    margin: 10px 0;
+}*/
+
+.flexnavhome{
+    display: flex;
+    height: 70px;
+    justify-content: space-between;
+    flex-direction: column;
+    margin-top: calc(50vh - 35px);
+    margin-left: 15px;
+    position: fixed;
+}
+
+
+.flexnav{
+    display: flex;
+    height: 70px;
+    justify-content: space-between;
+    flex-direction: column;
+    margin-top: calc(50vh - 35px);
+    margin-left: 15px;
+    position: fixed;
+}
+
+
+
+.main{  
+    display: grid;
+    grid-template-columns: auto 500px 300px auto;
+    grid-template-rows: 50px auto auto 50px;
+    grid-gap: 10px ;
+    padding-left: 150px;
+    padding-right: 150px
+}
+
+
+.aboutpic{
+    grid-column: 2;
+    grid-row: 2 /span 3;
+}
+
+
+.about-text{
+    grid-column: 3;
+    grid-row: 2;
+    line-height: 1.3;
+    padding-left: 15px;  
+}
+
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+    padding-left: 115px
+}
+
+.column {
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+.bg-img {
+    background: url('../img/bg-image.jpeg') no-repeat top left;
+    display: block;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+    .main{
+        display: flex;
+        flex-direction: column-reverse;
+        padding-right: 20px
+    }
+  .about-text{
+    padding-left: 0;  
+}
+}
+
+
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+
+
+
+.column img:hover {
+    transform: scale(1.2);
+        transition: .5s;
+}
+
+
+
+.footer{
+    position: absolute;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+    opacity: 40%;
+    font-size: 13px;
+    text-align: left;
+    margin: 6px;
+    position: fixed;
+}
+
+
+
